@@ -196,4 +196,11 @@ These adjustments must be performed and certified by authorized workshops, as te
 - API Standard 520, Part II (2015) — *Installation*
 - Manufacturer datasheets and test certificates for each PRV
 
+## Repository Contents
+ 
+- `PRV_PROJECT_REPORT.pdf` — Full project report (methodology, data, results, discussion, recommendations)
+- `PRV_Project_Presentation.pdf` — Slide deck with valve-by-valve photographic evidence and compliance verdicts
+- `PRV Valves Data.xlsx` — Raw inspection data for all 20 valves (tag numbers, set pressures, MAWP, back pressure %, inlet loss %, compliance status)
+
+
 ---
